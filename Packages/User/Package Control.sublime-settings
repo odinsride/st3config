@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"GitGutter",
+		"Material Theme",
+		"Package Control",
+		"Rails Developer Snippets",
+		"Sass",
+		"SCSS"
+	]
+}
